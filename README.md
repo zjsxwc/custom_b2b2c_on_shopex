@@ -1,11 +1,19 @@
-#对于商派b2b2c的二次开发
+# 对于商派b2b2c的二次开发
 
-Road Map
+## Road Map
 
-DI依赖注入容器
+###DI依赖注入容器
 
-ORM
+注入我们自己的基础设施
 
-CustomBizServices
+###ORM
 
-and so on ...
+我们自己的数据库操作
+
+###CustomBizServices
+
+我们自己的业务
+
+###BugFix
+
+修复商派bbc的bug
